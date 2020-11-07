@@ -217,13 +217,12 @@
     />
   </head>
   <body class="dark">
-    <embed
-      src="static\media\tu2bg.mp3"
-      loop="true"
-      autostart="true"
-      width="2"
-      height="0"
-    />
+    <div id="player">
+      <audio autoplay loop>
+        <source src="static\media\tu2bg.mp3" type="audio/mp3" />
+        If you're reading this, audio isn't supported.
+      </audio>
+    </div>
     <script>
       const preferredTheme = JSON.parse(localStorage.getItem("theme"));
       document.body.className = preferredTheme || "dark";

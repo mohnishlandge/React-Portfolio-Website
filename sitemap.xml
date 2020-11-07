@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hamishw.com/</loc>
+    <loc>https://tu2.tech/</loc>
     <lastmod>2019-02-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hamishw.com/contact</loc>
+    <loc>https://tu2.tech/contact</loc>
     <lastmod>2019-02-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hamishw.com/projects/smart-sparrow</loc>
+    <loc>https://tu2.tech/projects/smart-sparrow</loc>
     <lastmod>2020-10-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hamishw.com/projects/slice</loc>
+    <loc>https://tu2.tech/projects/slice</loc>
     <lastmod>2019-02-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
     <url>
-    <loc>https://hamishw.com/projects/volkihar-knight</loc>
+    <loc>https://tu2.tech/projects/volkihar-knight</loc>
     <lastmod>2019-02-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://storybook.hamishw.com</loc>
+    <loc>https://storybook.tu2.tech</loc>
     <lastmod>2019-06-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://trueblue.hamishw.com</loc>
+    <loc>https://trueblue.tu2.tech</loc>
     <lastmod>2020-02-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

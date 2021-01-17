@@ -1,6 +1,6 @@
-# ReactJS Portfolio Template      
+# React .JS Portfolio Template      
 
-![ReactJS Resume Website Template](resume-screenshot-naz.png?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](tu2meta.jpg?raw=true "ReactJS Portfolio Website Template")
 
 ## <a href="https://vigorous-hugle-2928a1.netlify.app" target="_blank">LIVE DEMO</a>
 
